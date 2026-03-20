@@ -18,4 +18,4 @@ python sys_stocks.py
 ```
 
 ## Author
-Made by Soham — © 2026
+Made by Soham Kolhe— © 2026
