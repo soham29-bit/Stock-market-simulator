@@ -1,4 +1,9 @@
-import random, warnings
+# ═══════════════════════════════════════════════════════════════════════
+#  SYS STOCKS — Live Trading Simulator
+#  Author  : Soham Sntosh Kolhe
+#  GitHub  : github.com/soham29-bit
+#  License : MIT License — Copyright (c) 2026 Soham Santosh Kolhe
+# ═══════════════════════════════════════════════════════════════════════import random, warnings
 import numpy as np, pandas as pd
 import matplotlib.pyplot as plt, matplotlib.patches as patches
 from matplotlib.widgets import Button, TextBox
