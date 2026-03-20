@@ -1,6 +1,6 @@
 # ═══════════════════════════════════════════════════════════════════════
 #  SYS STOCKS — Live Trading Simulator
-#  Author  : Soham Sntosh Kolhe
+#  Author  : Soham Santosh Kolhe
 #  GitHub  : github.com/soham29-bit
 #  License : MIT License — Copyright (c) 2026 Soham Santosh Kolhe
 # ═══════════════════════════════════════════════════════════════════════import random, warnings
